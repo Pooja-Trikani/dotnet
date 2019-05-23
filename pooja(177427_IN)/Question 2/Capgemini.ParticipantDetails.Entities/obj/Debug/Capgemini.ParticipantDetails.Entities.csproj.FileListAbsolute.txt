@@ -1,0 +1,11 @@
+C:\Exam\Question 2\Capgemini.ParticipantDetails.Entities\bin\Debug\Capgemini.ParticipantDetails.Entities.dll
+C:\Exam\Question 2\Capgemini.ParticipantDetails.Entities\bin\Debug\Capgemini.ParticipantDetails.Entities.pdb
+C:\Exam\Question 2\Capgemini.ParticipantDetails.Entities\obj\Debug\Capgemini.ParticipantDetails.Entities.csproj.CoreCompileInputs.cache
+C:\Exam\Question 2\Capgemini.ParticipantDetails.Entities\obj\Debug\Capgemini.ParticipantDetails.Entities.dll
+C:\Exam\Question 2\Capgemini.ParticipantDetails.Entities\obj\Debug\Capgemini.ParticipantDetails.Entities.pdb
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Entities\bin\Debug\Capgemini.ParticipantDetails.Entities.dll
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Entities\bin\Debug\Capgemini.ParticipantDetails.Entities.pdb
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Entities\obj\Debug\Capgemini.ParticipantDetails.Entities.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Entities\obj\Debug\Capgemini.ParticipantDetails.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Entities\obj\Debug\Capgemini.ParticipantDetails.Entities.dll
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Entities\obj\Debug\Capgemini.ParticipantDetails.Entities.pdb

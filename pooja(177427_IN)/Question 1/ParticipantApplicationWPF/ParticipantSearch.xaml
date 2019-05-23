@@ -1,0 +1,26 @@
+﻿<Window x:Class="ParticipantApplicationWPF.ParticipantSearch"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ParticipantApplicationWPF"
+        mc:Ignorable="d"
+        Title="ParticipantSearch" Height="450" Width="593.609">
+    <Grid>
+        <Label Content="Voucher Number" HorizontalAlignment="Left" Margin="52,25,0,0" VerticalAlignment="Top" Width="115" FontWeight="Bold"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="227,25,0,0" TextWrapping="Wrap" Text="" x:Name="txtVoucherNumber" VerticalAlignment="Top" Width="182"/>
+        <Button Content="Search" HorizontalAlignment="Left" Margin="434,25,0,0" VerticalAlignment="Top" Width="60" Height="23" Click="Button_Click"/>
+        <Label Content="Pariticipant Name" HorizontalAlignment="Left" Margin="52,72,0,0" VerticalAlignment="Top" Width="136" FontWeight="Bold"/>
+
+
+        <Label Content="Technology" HorizontalAlignment="Left" Margin="52,129,0,0" VerticalAlignment="Top" Width="115" FontWeight="Bold"/>
+        <Label Content="Certification Code" HorizontalAlignment="Left" Margin="52,190,0,0" VerticalAlignment="Top" Width="115" FontWeight="Bold"/>
+        <Label Content="Certification Name" HorizontalAlignment="Left" Margin="52,258,0,0" VerticalAlignment="Top" Width="115" FontWeight="Bold"/>
+        <Label Content="Certification Date" HorizontalAlignment="Left" Margin="52,329,0,0" VerticalAlignment="Top" Width="115" FontWeight="Bold"/>
+        <Label Content="" x:Name="lblResParticipantname" HorizontalAlignment="Left" Margin="227,72,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="" x:Name="lblResTechnology" HorizontalAlignment="Left" Margin="227,139,0,0" VerticalAlignment="Top" Width="111"/>
+        <Label Content="" x:Name="lblCertificateCode" HorizontalAlignment="Left" Margin="227,190,0,0" VerticalAlignment="Top" Width="111"/>
+        <Label Content="" x:Name="lblCertificateName" HorizontalAlignment="Left" Margin="227,258,0,0" VerticalAlignment="Top" Width="111"/>
+        <Label Content="" x:Name="lblCertificateDate" HorizontalAlignment="Left" Margin="227,329,0,0" VerticalAlignment="Top" Width="111"/>
+    </Grid>
+</Window>

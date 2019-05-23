@@ -1,0 +1,6 @@
+C:\Exam\Question 1\Capgemini.ParticipantDetails.Entities\bin\Debug\Capgemini.ParticipantDetails.Entities.dll
+C:\Exam\Question 1\Capgemini.ParticipantDetails.Entities\bin\Debug\Capgemini.ParticipantDetails.Entities.pdb
+C:\Exam\Question 1\Capgemini.ParticipantDetails.Entities\obj\Debug\Capgemini.ParticipantDetails.Entities.csprojAssemblyReference.cache
+C:\Exam\Question 1\Capgemini.ParticipantDetails.Entities\obj\Debug\Capgemini.ParticipantDetails.Entities.csproj.CoreCompileInputs.cache
+C:\Exam\Question 1\Capgemini.ParticipantDetails.Entities\obj\Debug\Capgemini.ParticipantDetails.Entities.dll
+C:\Exam\Question 1\Capgemini.ParticipantDetails.Entities\obj\Debug\Capgemini.ParticipantDetails.Entities.pdb

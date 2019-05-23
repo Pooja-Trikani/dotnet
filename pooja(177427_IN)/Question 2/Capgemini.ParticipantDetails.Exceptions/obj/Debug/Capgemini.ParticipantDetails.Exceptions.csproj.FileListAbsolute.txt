@@ -1,0 +1,11 @@
+C:\Exam\Question 2\Capgemini.ParticipantDetails.Exceptions\bin\Debug\Capgemini.ParticipantDetails.Exceptions.dll
+C:\Exam\Question 2\Capgemini.ParticipantDetails.Exceptions\bin\Debug\Capgemini.ParticipantDetails.Exceptions.pdb
+C:\Exam\Question 2\Capgemini.ParticipantDetails.Exceptions\obj\Debug\Capgemini.ParticipantDetails.Exceptions.csproj.CoreCompileInputs.cache
+C:\Exam\Question 2\Capgemini.ParticipantDetails.Exceptions\obj\Debug\Capgemini.ParticipantDetails.Exceptions.dll
+C:\Exam\Question 2\Capgemini.ParticipantDetails.Exceptions\obj\Debug\Capgemini.ParticipantDetails.Exceptions.pdb
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Exceptions\bin\Debug\Capgemini.ParticipantDetails.Exceptions.dll
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Exceptions\bin\Debug\Capgemini.ParticipantDetails.Exceptions.pdb
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Exceptions\obj\Debug\Capgemini.ParticipantDetails.Exceptions.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Exceptions\obj\Debug\Capgemini.ParticipantDetails.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Exceptions\obj\Debug\Capgemini.ParticipantDetails.Exceptions.dll
+C:\Users\Abridge Solutions\Desktop\Jithendra Prasad-177878\Question 2\Capgemini.ParticipantDetails.Exceptions\obj\Debug\Capgemini.ParticipantDetails.Exceptions.pdb
